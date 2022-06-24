@@ -1,0 +1,22 @@
+2021-12-26 23:12:30.000376 - Dep1 was successfully accessed 
+2021-12-26 23:12:55.331450 - Dep2 was successfully accessed 
+2021-12-26 23:13:25.235662 - Dep3 was successfully accessed 
+2021-12-27 11:27:54.567151 - Dep1 was successfully accessed 
+2021-12-27 11:29:40.899154 - Dep1 was successfully accessed 
+2021-12-27 16:54:37.899757 - Dep1 was successfully accessed 
+2021-12-28 00:09:30.184230 - Dep1 was successfully accessed 
+2021-12-28 01:02:51.763523 - Dep1 was successfully accessed 
+2021-12-28 01:03:19.732681 - Dep1 was successfully accessed 
+2021-12-28 02:10:14.552595 - Dep1 was successfully accessed 
+2021-12-28 02:12:47.856312 - Dep1 was successfully accessed 
+2021-12-28 02:13:01.529646 - Someone was denied access to an user. Reason: no existing user matching input 
+2021-12-28 02:13:13.429434 - Dep1 was successfully accessed 
+2021-12-28 02:13:36.317154 - Dep1 was successfully accessed 
+2021-12-29 01:40:12.006268 - Dep1 was successfully accessed 
+2021-12-29 12:20:19.710067 - Dep1 was successfully accessed 
+2021-12-30 18:30:48.503697 - Dep1 was successfully accessed 
+2022-01-16 00:26:39.420063 - Dep1 was successfully accessed 
+2022-01-17 19:54:21.774824 - Dep1 was successfully accessed 
+2022-03-16 19:43:21.781039 - Dep1 was unsuccessfully accessed. Reason: incorrect password 
+2022-03-16 19:43:57.431451 - Dep1 was successfully accessed 
+2022-03-16 19:44:23.938545 - Dep1 was successfully accessed 

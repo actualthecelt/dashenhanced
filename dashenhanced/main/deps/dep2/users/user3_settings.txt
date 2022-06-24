@@ -1,0 +1,5 @@
+1=off
+2=on
+3=off
+
+NOTE: Editing this file may result in a numerous amount of bugs in your dashboard.

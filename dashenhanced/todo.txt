@@ -1,0 +1,3 @@
+- add github command
+- port everything from user1.py to all user profiles once it's done
+- bring out the alpha release on github once everything is working
